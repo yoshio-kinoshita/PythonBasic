@@ -12,3 +12,6 @@ print(numbers[9-8])
 print(numbers[-2])
 print(numbers[-0])
 print(numbers[0])
+
+s = "ython rocks"
+print(s[3])
